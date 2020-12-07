@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+          {
+              "appID": "362A4C7WMR.my.com.daikin.app",
+              "paths": [ "*", "/", "/*"]
+          }
+      ]
+  }
+}

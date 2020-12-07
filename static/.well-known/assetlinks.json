@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "my.com.daikin.app",
+    "sha256_cert_fingerprints":
+    ["15:40:D8:BB:2F:2D:4E:35:D1:B1:69:51:0B:24:CC:A1:FA:C2:B9:BF:9C:61:DF:12:BC:E9:54:9C:36:34:2B:00"]
+  }
+}]
